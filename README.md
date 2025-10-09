@@ -10,7 +10,7 @@ I'm a **Computer Systems enthusiast** pursuing my MSc at EPFL, passionate about 
 
 - 🛰️ Currently working as a **Software Engineer at QMSAT** on satellite technology projects
 - 👨‍🏫 **Teaching Assistant** for Algorithms at EPFL, helping students master complex concepts
-- 🚀 Co-founding an **EdTech startup** revolutionizing online education through microlearning
+
 - 🐧 Daily Linux user with a custom Neovim setup for maximum productivity
 - 🌍 Multilingual: Native in French/Spanish, C1 in English/German
 
