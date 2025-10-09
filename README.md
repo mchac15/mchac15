@@ -53,10 +53,6 @@ Open-source collaborative Android hiking app with GPS tracking, route planning, 
 - **Tech:** Kotlin, Android SDK, Firebase, Open Street Maps API
 - **Features:** Real-time collaboration, offline functionality, route optimization
 
-### 🎓 Online Education Platform (Private - Startup)
-Full-stack EdTech platform focusing on microlearning methodologies
-- **Stack:** React (Vite), TypeScript, Clerk Auth, Supabase, TanStack Query, Stripe
-- **Role:** Co-founder & Lead Developer
 
 ### 🤖 Discord Voice Assistant Bot
 JavaScript bot with real-time TTS translation and personalized greetings
