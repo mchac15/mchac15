@@ -52,8 +52,10 @@ I'm a **Computer Systems enthusiast** pursuing my MSc at EPFL, passionate about 
 Open-source collaborative Android hiking app with GPS tracking, route planning, and offline maps
 - **Tech:** Kotlin, Android SDK, Firebase, Open Street Maps API
 - **Features:** Real-time collaboration, offline functionality, route optimization
-
-
+### 📊 [Task manager in scala](https://github.com/mchac15/scala-task-manager)
+Simple task manager done in scala to learn how to use event-sourcing.
+- **Tech:** Scala, event sourcing
+- **Features:** Task management
 ### 🤖 Discord Voice Assistant Bot
 JavaScript bot with real-time TTS translation and personalized greetings
 - **Tech:** JavaScript, Firebase, Discord.js, TTS APIs
