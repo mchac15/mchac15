@@ -1,0 +1,29 @@
+name: Update GitHub Stats
+
+# When to run the workflow
+on:
+  schedule:
+    - cron: "0 0 * * *" # every day at midnight
+  workflow_dispatch: # allows manual trigger from GitHub UI
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout your repo
+      - uses: actions/checkout@v3
+
+      # 2. Replace the placeholder token in README
+      - name: Inject GitHub Stats Token
+        run: |
+          sed -i "s|PLACEHOLDER_TOKEN|${{ secrets.GH_README_STATS_TOKEN }}|" README.md
+
+      # 3. Commit the changes if there are any
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update GitHub stats with private repos" || echo "No changes to commit"
+          git push
