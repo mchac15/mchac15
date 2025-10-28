@@ -44,7 +44,7 @@ I'm a **Computer Systems enthusiast** pursuing my MSc at EPFL, passionate about 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mchac15&show_icons=true&theme=dark&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mchac15&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mchac15&layout=compact&theme=dark&count_private=true&token=PLACEHOLDER_TOKEN)
 
 ## 🚀 Featured Projects
 
