@@ -56,12 +56,12 @@ Open-source collaborative Android hiking app with GPS tracking, route planning, 
 Simple task manager done in scala to learn how to use event-sourcing.
 - **Tech:** Scala, event sourcing
 - **Features:** Task management
-### 🤖 Adam discord TTS bot
+### 🤖 [Adam discord TTS bot](https://github.com/mchac15/adamDiscordBot)
 JavaScript bot with real-time TTS translation and personalized greetings
 - **Tech:** JavaScript, Firebase, Discord.js, TTS API (Google)
 - **Features:** Multi-language support, user preference management
 
-### ⚡ Custom Neovim Configuration
+### ⚡ [Custom Neovim Configuration](https://github.com/mchac15/niceNvim)
 Comprehensive development environment built from scratch
 - **Tech:** Lua, Vimscript, Tree-sitter, LSP
 - **Features:** Custom keybindings, debugging integration, multi-language support
