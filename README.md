@@ -4,16 +4,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheo.chacon@epfl.ch)
 [![GitHub followers](https://img.shields.io/github/followers/mchac15?style=for-the-badge)](https://github.com/mchac15)
 
-## 🎓 About Me
-
-I'm a **Computer Systems enthusiast** pursuing my MSc at EPFL, passionate about low-level optimization, distributed computing, and building impactful software solutions.
-
-- 🛰️ Currently working as a **Software Engineer at QMSAT** on satellite technology projects
-- 👨‍🏫 **Teaching Assistant** for Algorithms at EPFL, helping students master complex concepts
-
-- 🐧 Daily Linux user with a custom Neovim setup for maximum productivity
-- 🌍 Multilingual: Native in French/Spanish, C1 in English/German
-
 ## 💻 Tech Stack
 
 ### Languages
@@ -35,11 +25,6 @@ I'm a **Computer Systems enthusiast** pursuing my MSc at EPFL, passionate about 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-### Specializations
-- 🔧 **Software Systems** & Concurrent Computing
-- 🔒 **Network Security** & Distributed Systems
-- ⚡ **Low-level Optimization** & Performance Tuning
-- 🛠️ **Computer Architecture** & Embedded Systems
 
 ## 📊 GitHub Stats
 
@@ -65,29 +50,3 @@ JavaScript bot with real-time TTS translation and personalized greetings
 Comprehensive development environment built from scratch
 - **Tech:** Lua, Vimscript, Tree-sitter, LSP
 - **Features:** Custom keybindings, debugging integration, multi-language support
-
-## 🏆 Achievements
-
-- 🥈 **Colombian Math Olympiad Semifinalist** - Ranked 25th nationally
-- 🎓 **DSD II C1 German Certificate** - Advanced proficiency
-- 🌟 **2 Years Volunteer Teaching** in underserved communities in Bogotá
-- 🎤 **Jugend debattiert Lateinamerika** participant
-
-## 📈 Current Focus
-
-- 🛰️ Contributing to satellite technology at QMSAT (EPFL-Queen Mary University collaboration)
-- 📚 Teaching and mentoring students in Algorithms at EPFL
-- 🚀 Building scalable EdTech solutions for modern learners
-- 🔬 Exploring advanced topics in distributed systems and ML applications
-
-## 📫 Let's Connect!
-
-Feel free to reach out for collaborations, open-source projects, or just a tech chat!
-
-- 📧 Email: matheo.chacon@epfl.ch
-- 💼 LinkedIn: [Mathéo Chacón](https://www.linkedin.com/in/mathéo-chacón-ducommun-dit-verron-32b3251ba)
-- 🌐 Location: Lausanne, Switzerland
-
----
-
-⭐️ From [mchac15](https://github.com/mchac15)
